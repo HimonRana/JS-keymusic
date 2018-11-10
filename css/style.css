@@ -1,8 +1,7 @@
 html {
   font-size: 10px;
-  background: url("https://picsum.photos/1920/1080/?random");
+  background: url("https://picsum.photos/1920/1080/?random") no-repeat;
   object-fit: cover;
-  background-size: cover;
 }
 
 body,
